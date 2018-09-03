@@ -1,1 +1,1 @@
-# color-contrast-yiq-equation
+# Color Contrast - YIQ Equation
